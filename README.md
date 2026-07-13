@@ -627,7 +627,7 @@ https://katana.so/
 * TWZRD Agent Intel - Solana AI agent trust scoring MCP server with x402 payment receipts
 https://github.com/twzrd-sol/wzrd-final
   * MCP endpoint: https://intel.twzrd.xyz/mcp
-  * Free preflight trust scoring + paid signed V5 x402 receipts for AI agents
+  * Free preflight trust scoring + paid signed V6 x402 receipts for AI agents
 
 
 #### Other Programming topics
